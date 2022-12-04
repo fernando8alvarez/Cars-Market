@@ -31,8 +31,6 @@ Se trata de una aplicación desarrollada entre 5 colaboradores, que se basa en u
 <img src="https://github.com/fernando8alvarez/Cars-Market/blob/main/img/html.png" height="80px"/>
 <img width="10px"/>
 <img src="https://github.com/fernando8alvarez/Cars-Market/blob/main/img/javascript.png" height="80px"/>
-</p>
-<p align="center">
 <img width="10px"/>
 <img src="https://github.com/fernando8alvarez/Cars-Market/blob/main/img/tailwind.png" height="80px"/>
 <img width="10px"/>
@@ -53,8 +51,6 @@ Se trata de una aplicación desarrollada entre 5 colaboradores, que se basa en u
 <img src="https://github.com/fernando8alvarez/Cars-Market/blob/main/img/thunderClient.png" height="80px"/>
 <img width="10px"/>
 <img src="https://github.com/fernando8alvarez/Cars-Market/blob/main/img/nodemailer.png" height="80px"/>
-</p>
-<p align="center">
 <img width="10px"/>
 <img src="https://github.com/fernando8alvarez/Cars-Market/blob/main/img/auth0.png" height="80px"/>
 <img src="https://github.com/fernando8alvarez/Cars-Market/blob/main/img/sweetalert2.png" height="80px"/>
