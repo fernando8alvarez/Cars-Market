@@ -12,12 +12,54 @@ Se trata de una aplicación desarrollada entre 5 colaboradores, que se basa en u
 
 ## Tecnologías usadas
 <p align="center">
-<img src="https://github.com/fernando8alvarez/My-PI-Food/blob/main/tecnology-PI.png" height="250"/>
-  </p>
+<img class='margin-right' src="https://github.com/fernando8alvarez/Cars-Market/blob/main/img/vsCode.png" height="80px"/>
+<img width="10px"/>
+<img src="https://github.com/fernando8alvarez/Cars-Market/blob/main/img/git.png" height="80px"/>
+<img width="10px"/>
+<img src="https://github.com/fernando8alvarez/Cars-Market/blob/main/img/github.png" height="80px"/>
+<img width="10px"/>
+<img src="https://github.com/fernando8alvarez/Cars-Market/blob/main/img/SCRUM-.png" height="80px"/>
+<img width="10px"/>
+<img src="https://github.com/fernando8alvarez/Cars-Market/blob/main/img/trello.png" height="80px"/>
+<img width="10px"/>
+<img src="https://github.com/fernando8alvarez/Cars-Market/blob/main/img/wondershareMockitt.png" height="80px"/>
+<img width="10px"/>
+<img src="https://github.com/fernando8alvarez/Cars-Market/blob/main/img/canva.png" height="80px"/>
+<img width="10px"/>
+<img src="https://github.com/fernando8alvarez/Cars-Market/blob/main/img/trello.png" height="80px"/>
+<img width="10px"/>
+<img src="https://github.com/fernando8alvarez/Cars-Market/blob/main/img/html.png" height="80px"/>
+<img width="10px"/>
+<img src="https://github.com/fernando8alvarez/Cars-Market/blob/main/img/javascript.png" height="80px"/>
+<img width="10px"/>
+<img src="https://github.com/fernando8alvarez/Cars-Market/blob/main/img/tailwind.png" height="80px"/>
+<img width="10px"/>
+<img src="https://github.com/fernando8alvarez/Cars-Market/blob/main/img/react.png" height="80px"/>
+<img width="10px"/>
+<img src="https://github.com/fernando8alvarez/Cars-Market/blob/main/img/redux.png" height="80px"/>
+<img width="10px"/>
+<img src="https://github.com/fernando8alvarez/Cars-Market/blob/main/img/nodeJS.png" height="80px"/>
+<img width="10px"/>
+<img src="https://github.com/fernando8alvarez/Cars-Market/blob/main/img/express.png" height="80px"/>
+<img width="10px"/>
+<img src="https://github.com/fernando8alvarez/Cars-Market/blob/main/img/SQL.png" height="80px"/>
+<img width="10px"/>
+<img src="https://github.com/fernando8alvarez/Cars-Market/blob/main/img/postgresSQL.png" height="80px"/>
+<img width="10px"/>
+<img src="https://github.com/fernando8alvarez/Cars-Market/blob/main/img/sequelize.png" height="80px"/>
+<img width="10px"/>
+<img src="https://github.com/fernando8alvarez/Cars-Market/blob/main/img/thunderClient.png" height="80px"/>
+<img width="10px"/>
+<img src="https://github.com/fernando8alvarez/Cars-Market/blob/main/img/nodemailer.png" height="80px"/>
+<img width="10px"/>
+<img src="https://github.com/fernando8alvarez/Cars-Market/blob/main/img/auth0.png" height="80px"/>
+
+<img src="https://github.com/fernando8alvarez/Cars-Market/blob/main/img/sweetalert2.png" height="80px"/>
+</p>
 
 ## Vista previa de la app
 
-- **Landing page:** Carta de presentación y y bienvenida a la página.
+- **Landing page:** Carta de presentación y bienvenida a la página.
 
 <img src="https://github.com/fernando8alvarez/Cars-Market/blob/main/Img/Landing%20Page.png" />
 
