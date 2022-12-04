@@ -53,8 +53,11 @@ Se trata de una aplicación desarrollada entre 5 colaboradores, que se basa en u
 <img src="https://github.com/fernando8alvarez/Cars-Market/blob/main/img/nodemailer.png" height="80px"/>
 <img width="10px"/>
 <img src="https://github.com/fernando8alvarez/Cars-Market/blob/main/img/auth0.png" height="80px"/>
-
 <img src="https://github.com/fernando8alvarez/Cars-Market/blob/main/img/sweetalert2.png" height="80px"/>
+<img width="10px"/>
+<img src="https://github.com/fernando8alvarez/Cars-Market/blob/main/img/claudinary.png" height="80px"/>
+<img width="10px"/>
+<img src="https://github.com/fernando8alvarez/Cars-Market/blob/main/img/mercado_pago.png" height="80px"/>
 </p>
 
 ## Vista previa de la app
