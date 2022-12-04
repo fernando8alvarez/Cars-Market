@@ -36,3 +36,11 @@ Se trata de una aplicación desarrollada entre 5 colaboradores, que se basa en u
 - **Detalles del vehiculo:** 
 
 <img src="https://github.com/fernando8alvarez/Cars-Market/blob/main/Img/Detalles%20-%20Publicacion.png" />
+
+- **Perfil del vendedor:** 
+
+<img src="https://github.com/fernando8alvarez/Cars-Market/blob/main/Img/Perfil%20del%20vendedor.png" />
+
+- **Contactar al vendedor:** 
+
+<img src="https://github.com/fernando8alvarez/Cars-Market/blob/main/Img/Contactar%20al%20vendedor.png" />
